@@ -1,4 +1,17 @@
-### Hi there 👋
+### Katie Lonsdale
+<p> I'm a student at the Turing School of Software and Design in the backend program. I will be graduating in early August. I enjoy feature-oriented programming, learning new languages, and collaborating with others to create interactive web applications.</p>
+
+##### Currently Learning:
+- Ruby on Rails
+- How to consume API's for web applications
+- Test Driven Development
+
+##### What I Want To Learn Next:
+- Python/Django
+- JavaScript
+
+##### How To Reach Me:
+
 
 <!--
 **KatieLonsdale/KatieLonsdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

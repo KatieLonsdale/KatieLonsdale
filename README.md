@@ -3,7 +3,7 @@
 
 ##### Currently Learning:
 - Ruby on Rails
-- How to consume API's for web applications
+- How to consume and build APIs for web applications
 - Test Driven Development
 
 ##### What I Want To Learn Next:

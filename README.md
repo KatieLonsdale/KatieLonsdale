@@ -11,8 +11,8 @@
 - JavaScript
 
 ##### How To Reach Me:
-- [Email] (mailto:katie952@gmail.com)
-- [LinkedIn] (https://www.linkedin.com/in/katherine-lonsdale-7b215185/)
+- [Email](mailto:katie952@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/katherine-lonsdale-7b215185/)
 
 
 <!--

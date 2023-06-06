@@ -9,6 +9,7 @@
 ##### What I Want To Learn Next:
 - Python/Django
 - JavaScript
+- AWS
 
 ##### How To Reach Me:
 - [Email](mailto:katie952@gmail.com)

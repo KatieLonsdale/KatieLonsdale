@@ -8,6 +8,7 @@
 
 ##### What I Want To Learn Next:
 - Python/Django
+- GraphQL
 - JavaScript
 - AWS
 

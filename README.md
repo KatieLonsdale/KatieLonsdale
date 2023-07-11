@@ -1,13 +1,12 @@
-### Katie Lonsdale
-<p> I'm a student at the Turing School of Software and Design in the backend program. I will be graduating in early August. I enjoy feature-oriented programming, learning new languages, and collaborating with others to create interactive web applications.</p>
+![Katie Lonsdale (2)](https://github.com/KatieLonsdale/KatieLonsdale/assets/118778749/2d5498d1-90a1-4046-bf4b-fec7c507899a)
+
+<p> Backend Software Developer graduating from Turing School of Software & Design in August. I enjoy feature-oriented programming, learning new languages, and collaborating with others to create interactive web applications.</p>
 
 ##### Currently Learning:
-- Ruby on Rails
-- RestAPIs
-- Test Driven Development
+- Python
+- Django
 
 ##### What I Want To Learn Next:
-- Python/Django
 - GraphQL
 - JavaScript
 - AWS

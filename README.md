@@ -1,6 +1,6 @@
 ![Katie Lonsdale (2)](https://github.com/KatieLonsdale/KatieLonsdale/assets/118778749/2d5498d1-90a1-4046-bf4b-fec7c507899a)
 
-<p> Backend Software Developer graduating from Turing School of Software & Design in August. I enjoy feature-oriented programming, learning new languages, and collaborating with others to create interactive web applications.</p>
+<p> Backend Software Developer graduating from Turing School of Software & Design in August. I enjoy learning new languages and collaborating with others to create interactive web applications.</p>
 
 ##### Currently Learning:
 - Python

@@ -3,13 +3,16 @@
 <p> Backend Software Developer graduating from Turing School of Software & Design in August. I enjoy learning new languages and collaborating with others to create interactive web applications.</p>
 
 ##### Experience With:
+- PHP/Laravel
+- Typescript/Node
 - Ruby on Rails
+- Python/Django
 - SQL
 - REST APIs
 
 ##### Currently Learning:
-- Python
-- Django
+- Kotlin
+- Jetpack Compose
 
 ##### What I Want To Learn Next:
 - GraphQL
